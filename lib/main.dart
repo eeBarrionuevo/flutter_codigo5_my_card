@@ -26,7 +26,7 @@ class MandarinaApp extends StatelessWidget {
               height: 10.0,
             ),
             const Text(
-              "Fiorella de Fátima Guadalupe",
+              "Fiorella de Fátima Guadalupe de las Nieves",
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 22.0,
